@@ -5,5 +5,5 @@ This project show off the object-oriented programming structure (abstract classe
 
 
 //////////////////////////////////////
-note: The ASCII models are made by artists they are not mine (used for personal and educational reason only)
+note: The ASCII models are made by artists they are not mine (used for personal and educational reason only).
 //////////////////////////////////////
